@@ -6,3 +6,5 @@ added tag v3
 further changes after adding tag
 
 changes for version 1.0.1
+
+changes for versio 1.0.2
